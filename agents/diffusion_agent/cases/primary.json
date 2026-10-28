@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative-AI ambient clinical documentation (ambient scribe): captures clinician-patient conversation and drafts a note for clinician review.",
+  "intended_application": "Outpatient primary-care visit note drafting integrated into the EHR; clinician edits and signs every note.",
+  "organization": "A hypothetical U.S. regional nonprofit hospital system with ambulatory clinics; moderate/fast-follower posture.",
+  "industry_sector": "U.S. hospital and ambulatory healthcare delivery.",
+  "business_need": "Reduce after-hours documentation and clinician burden without degrading note quality or patient interaction.",
+  "users_stakeholders": "Primary-care clinicians, patients, clinical informatics, privacy/security, health-information management, IT, and operations.",
+  "adoption_posture": "Moderate/fast follower; interested in peer-proven workflows but cautious about privacy and clinician accountability.",
+  "capabilities_constraints": "Existing EHR; limited integration and training capacity; requires patient notice/consent workflow, vendor review, clinician review, and usage/quality monitoring.",
+  "risk_consequence_context": "Draft errors could create misleading clinical records. Human review/sign-off is mandatory; privacy and trust matter; errors are consequential but notes are correctable before signature.",
+  "management_question": "Should leadership prepare a limited, monitored rollout now or defer while evidence and operational readiness mature? Diffusion agent informs timing only.",
+  "time_horizon": "Planning horizon: next 12 months.",
+  "additional_context": "Illustrative educational case, not a claim about a real hospital or local adoption data."
+}

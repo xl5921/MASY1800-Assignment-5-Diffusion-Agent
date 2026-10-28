@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative-AI ambient clinical documentation (ambient scribe): captures clinician-patient conversation and drafts a note for clinician review.",
+  "intended_application": "Behavioral-health psychotherapy progress-note drafting in outpatient clinics, where narrative nuance, sensitive disclosures, language variation, and patient comfort are central.",
+  "organization": "A hypothetical small community hospital behavioral-health service with a conservative adoption posture, limited informatics capacity, and high sensitivity to privacy and therapeutic trust.",
+  "industry_sector": "U.S. community behavioral-health outpatient services.",
+  "business_need": "Reduce after-hours documentation and clinician burden without degrading note quality or patient interaction.",
+  "users_stakeholders": "Primary-care clinicians, patients, clinical informatics, privacy/security, health-information management, IT, and operations.",
+  "adoption_posture": "Conservative/risk-averse; requires local evidence and clinician-led testing before routine use.",
+  "capabilities_constraints": "Small IT team, mixed EHR templates, limited training/support, needs strong consent, opt-out, access controls, specialty fit, and clinician review.",
+  "risk_consequence_context": "Mischaracterizing sensitive statements or altering clinical meaning can harm trust and care continuity; human review is mandatory; patients may decline recording.",
+  "management_question": "Should this service test a tightly bounded opt-in workflow within 12 months, or wait for better specialty-specific evidence?",
+  "time_horizon": "Planning horizon: next 12 months.",
+  "additional_context": "Illustrative educational case, not a claim about a real hospital or local adoption data."
+}

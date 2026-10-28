@@ -1,0 +1,71 @@
+{
+  "agent": {
+    "name": "Emerging Technology Diffusion Agent",
+    "specialty": "Rogers diffusion analysis for emerging technologies and applications",
+    "version": "1.0.0"
+  },
+  "analytical_question": "How far has generative-AI ambient clinical documentation and this specified application diffused, what accelerates/inhibits diffusion, and what timing implication follows for this organization?",
+  "general_et_finding": "In observed U.S. health-system settings, ambient clinical documentation has moved beyond isolated experiments into enterprise access and expanding use, consistent with late early-adopter activity and possible transition toward early majority. This is a cautious interpretation, not a national market-stage estimate: no representative denominator establishes that a majority of eligible clinicians or organizations use it. Rogers adopter categories are treated as interpretive, not mechanically assigned percentages. Five attributes: relative advantage\u2014promising documentation/workload benefit, heterogeneous and sometimes modest; compatibility\u2014best where EHR/workflow and specialty templates fit; complexity\u2014moderate organizational integration/training and editing burden; trialability\u2014high when opt-in and reversible pilots are available; observability\u2014rising through peer deployments and local usage metrics, but outcomes are not universally comparable.",
+  "application_finding": "Behavioral-health documentation is a distinct application. The supplied implementation evidence is concentrated in general ambulatory and other specialties; it does not establish diffusion among outpatient psychotherapy services. Application diffusion must therefore be qualified/abstained rather than copied from primary care.",
+  "organization_specific_finding": "The technology-wide and broad U.S. health-system evidence is unchanged from the primary case. The conservative, small community behavioral-health service should treat timing as evidence-gathering: conduct only an opt-in, low-risk feasibility test if privacy, consent, specialty-fit and clinician review are supported, otherwise defer routine deployment. This reflects weaker peer evidence and trust/sensitivity constraints, not a later general technology stage.",
+  "evidence": [
+    {
+      "claim": "At Vanderbilt University Medical Center, ambient scribing access opened to >2,400 users Jan. 15, 2025; after three months 1,223 had used it and 1,032 were active; tool use rose from 4.2% to 20.1% of ambulatory/ED notes. This is a local implementation signal, not market penetration.",
+      "source_or_reference": "https://academic.oup.com/jamia/article/33/2/457/8307782",
+      "date_or_recency": "Study observed Jan 1-Mar 31 2025; article published 2026",
+      "evidence_type": "Health-system implementation study",
+      "notes": "Observed access/use and encounter share show scale and early growth. At 3 months half of access recipients had used it; survey response 22.1%, so perception findings risk nonresponse bias."
+    },
+    {
+      "claim": "A Sutter Health pilot found mean note time decreased by about 0.9 minute per appointment after implementation; experience and outcomes varied by specialty; burnout change in paired respondents was not statistically significant.",
+      "source_or_reference": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833433",
+      "date_or_recency": "Implementation Apr 2024; analysis May-Sep 2024; published 2025",
+      "evidence_type": "Single-system quality-improvement study",
+      "notes": "Supports potential relative advantage but indicates modest/heterogeneous effect and short follow-up; not proof of adoption rates."
+    },
+    {
+      "claim": "PHTI's early-adopter taskforce report described heterogeneous use, with heavy, intermittent, and non-users; noted primary care as a common first use case and emphasized operational and financial uncertainties.",
+      "source_or_reference": "https://phti.org/wp-content/uploads/sites/3/2025/03/PHTI-Adoption-of-AI-in-Healthcare-Delivery-Systems-Early-Applications-Impacts.pdf",
+      "date_or_recency": "Published March 2025; taskforce convened late 2024-early 2025",
+      "evidence_type": "Independent multi-stakeholder synthesis of early implementation experience",
+      "notes": "Useful diffusion mechanisms and heterogeneity, but purposive early-adopter input is not a representative market survey."
+    },
+    {
+      "claim": "A six-system quality-improvement study of 263 clinicians reported ambulatory burnout decreased from 51.9% to 38.8% after 30 days; supports perceived relative advantage but does not establish long-run use or diffusion prevalence.",
+      "source_or_reference": "https://media.jamanetwork.com/media-releases/10.1001/jamanetworkopen.2025.34976",
+      "date_or_recency": "Published Oct 2 2025",
+      "evidence_type": "Multi-system quality-improvement study / original investigation press summary",
+      "notes": "Short exposure and before/after design; use as evidence about benefit signal, not causal or market-stage proof."
+    },
+    {
+      "claim": "FDA's Jan 2026 CDS guidance clarifies boundaries for clinical decision-support software functions; ambient note drafting should not be assumed to be a device or exempt without analysis of intended function. Regulatory classification does not itself measure diffusion.",
+      "source_or_reference": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/clinical-decision-support-software",
+      "date_or_recency": "Guidance issued Jan 2026",
+      "evidence_type": "Official U.S. regulatory guidance",
+      "notes": "Relevant only if product functionality extends beyond documentation into clinical decision support; organization should obtain regulatory/privacy review."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "High-profile single-system launches and licenses are not representative evidence of national or global penetration.",
+    "Access, first trial, active use and sustained use differ: Vanderbilt access exceeded 2,400 but only 1,032 were active at the three-month endpoint; note share was 20.1%.",
+    "Implementation evidence is short-term and often observational or self-reported; positive outcomes do not prove causality or sustained adoption.",
+    "The evidence base reviewed does not provide representative behavioral-health-specific diffusion or an exact peer denominator.",
+    "The Rogers stage is an inference from observed settings, not a measured population curve; no unsupported percentage threshold is imposed."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in broad deployment direction; low confidence in behavioral-health-specific diffusion. No representative specialty denominator or comparable-peer time series was identified in the reviewed evidence.",
+  "value_opportunity_implication": "Visible peer use, clinician champions, potential documentation burden relief, and reversible trials can increase perceived relative advantage and trialability. Benefit is likely to be workflow- and specialty-dependent; implementation support and EHR fit are complementary assets.",
+  "risk_governance_implication": "Diffusion momentum should not substitute for note-quality, privacy, consent, security, bias, or workflow review. Maintain clinician review/signature and monitor corrections, opt-outs, and errors. If functionality provides clinical recommendations, seek separate regulatory assessment; diffusion agent does not determine device status.",
+  "recommendation_management_implication": "Do not infer psychotherapy uptake from primary-care deployments. If testing proceeds, limit scope, make recording optional, assess semantic fidelity and correction burden, and include patient/clinician feedback before any expansion.",
+  "change_monitoring_triggers": [
+    "A representative U.S. health-system or specialty survey supplies eligible-clinician denominator, active-use rate, and date.",
+    "Local eligible-encounter use, sustained active use, opt-outs, correction burden, and specialty-level adoption are available over at least two quarters.",
+    "Independent multi-site evaluations establish durable time/quality effects or show adverse/neutral outcomes.",
+    "EHR integration, interoperability standards, pricing, privacy rules, or clinical governance requirements materially change trialability or compatibility."
+  ],
+  "abstention_or_more_information_needed": [
+    "Do not make a confident claim that ambient scribes have reached early or late majority across all U.S. healthcare without representative denominators and sustained-use data.",
+    "Do not assign a behavioral-health application stage from general outpatient use; obtain specialty-specific peers, denominators, and longitudinal utilization.",
+    "Do not infer diffusion stage from vendor customer counts, access, funding, or press releases without independent use evidence.",
+    "To estimate this organization\u2019s local stage, obtain eligible clinician/encounter denominators, active and retained use, and local deployment timeline."
+  ]
+}
