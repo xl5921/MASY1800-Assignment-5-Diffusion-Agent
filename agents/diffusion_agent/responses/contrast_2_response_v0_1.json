@@ -1,0 +1,62 @@
+{
+  "agent": {
+    "name": "Emerging Technology Diffusion Agent",
+    "specialty": "Rogers diffusion analysis and contextual timing",
+    "version": "0.1.0-design-2026-10-28"
+  },
+  "analytical_question": "How far has generative AI and this human-reviewed service application diffused, and what does the evidence imply for this hypothetical organization over six months?",
+  "general_et_finding": "US evidence indicates broad but uneven generative-AI diffusion beyond a small experimental niche. The August 2026 RPS tracker reports workplace use by 40.5% of employed adults; this is not a company deployment rate. Task-level research indicates uneven depth. A precise Rogers stage is not established: innovators and early adopters are insufficient as a description of all users, but early-majority participation is a plausible interpretation rather than a verified stage. Late majority and laggard shares cannot be assigned. Organizational posture cannot alter this general evidence.",
+  "application_finding": "Human-reviewed service drafting has evidence of practical usefulness, but the supplied sources do not establish its prevalence in US apparel ecommerce. Relative advantage: revised research reports average 15% higher issues resolved per hour; transfer and net savings remain unproved. Compatibility: existing policies and support software offer a possible fit; integrations and workflow friction are unknown. Complexity: staff must verify policies and detect mistakes; difficulty is unmeasured. Trialability: a limited ordinary-inquiry trial is feasible in the scenario if review and rollback are arranged, an inference. Observability: compare total handling time, correction rates and repeat contacts against comparable inquiries; these are proposed measures, not measured benefits. Potential accelerators are visible benefits and supervisor-led demonstrations; potential inhibitors are integration effort, review burden and poor source data. Supervisors and experienced staff are candidate change agents/opinion leaders, not empirically identified influencers. Approved knowledge content, staff training and integration support are complementary assets. No evidence supplied establishes a decisive diffusion standard or named ecosystem leader. No defensible application-wide adopter-category distribution is available.",
+  "organization_specific_finding": "With exactly the same ecommerce facts and evidence, the assumed conservative posture increases the desired assurance before a live trial. Begin with a staff-reviewed offline demonstration and review results before considering a limited live pilot in the six-month horizon. This does not establish late-adopter status or lower general/application diffusion.",
+  "evidence": [
+    {
+      "claim": "Broad-sector AI use: finance/insurance 33.9%, retail about 14%, as of May 3, 2026.",
+      "source_or_reference": "US Census Bureau, Large Firms With at Least 20 Employees Biggest AI Users, https://www.census.gov/library/stories/2026/05/ai-use-businesses.html",
+      "date_or_recency": "Published 2026-05-26; observation May 3, 2026; reviewed 2026-10-28",
+      "evidence_type": "Official survey analysis",
+      "notes": "Any AI/business function, not generative AI customer-service adoption. Broad sectors differ from banks and apparel ecommerce. Historical context, not current October prevalence."
+    },
+    {
+      "claim": "August 2026 tracker reports workplace generative-AI use by 40.5% of employed adults.",
+      "source_or_reference": "Harvard Project on Workforce and St. Louis Fed, Generative AI Adoption Tracker, https://pw.hks.harvard.edu/post/the-generative-ai-adoption-tracker",
+      "date_or_recency": "Page initially published 2025-11-14, live updated; August 2026 observation; reviewed 2026-10-28",
+      "evidence_type": "Research-team survey summary",
+      "notes": "Nationally weighted US RPS; self-reported individual use, not enterprise deployment. Dynamic page; exact update date unavailable. Do not equate workers with firms."
+    },
+    {
+      "claim": "Research using nearly 14,000 workers across August 2025-May 2026 finds broad but uneven task penetration.",
+      "source_or_reference": "Bick et al., What Work Does Generative AI Do?, https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do",
+      "date_or_recency": "Published 2026-09-01; reviewed 2026-10-28",
+      "evidence_type": "Research authors summarizing RPS task study",
+      "notes": "US adults 18-64. Task and occupation denominators differ. Its May workplace headline differs from the August tracker observation; do not claim uninterrupted growth or merge waves without checking comparability."
+    },
+    {
+      "claim": "Revised study of 5,172 customer-support agents reports average 15% higher issues resolved per hour with AI assistance, with heterogeneous effects.",
+      "source_or_reference": "Brynjolfsson, Li and Raymond, Generative AI at Work, https://arxiv.org/abs/2304.11771v2",
+      "date_or_recency": "Revision 2024-11-06; abstract checked 2026-10-28",
+      "evidence_type": "Authors original research abstract, revised version",
+      "notes": "Historical effectiveness evidence, not a market-prevalence estimate or guaranteed savings. Experienced/high-skilled workers had small quality declines. Full methods and underlying observation dates not yet checked. Do not mix with earlier 14%/5,179 version."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "No representative application-specific prevalence or pilot-versus-production split for the target peer groups.",
+    "The effect study shows heterogeneous outcomes and some quality deterioration for experienced workers; its abstract is not a full methods review.",
+    "Individual generative-AI use, enterprise any-AI use, and task use have incompatible denominators. The sources are not independent measurements of one adoption rate.",
+    "No actual company data or deployment outcomes; organizational characteristics are assumptions."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in broad, uneven US diffusion; low confidence in a precise Rogers stage or application/peer prevalence. Organizational timing is conditional inference with low-to-moderate confidence, not measured readiness.",
+  "value_opportunity_implication": "Potential reduction in total service effort and support for less-experienced staff; no guaranteed 15% improvement or net cost saving for this organization.",
+  "risk_governance_implication": "Human review, approved source content and escalation are case controls; their actual effectiveness must be tested. Quality and data risks can impede diffusion even when tools are widely available.",
+  "recommendation_management_implication": "Prepare an offline ecommerce demonstration first, then reassess readiness for a bounded live pilot using reviewed results; do not impose an arbitrary delay solely because the organization is conservative.",
+  "change_monitoring_triggers": [
+    "New representative US application-specific adoption data distinguishing pilots and sustained deployment.",
+    "Measured local workflow effort, errors, repeat contacts and total costs from a bounded evaluation.",
+    "Changes in approved content, integration support, employee training or internal control readiness.",
+    "Refresh evidence before a six-month timing decision; no automatic launch date."
+  ],
+  "abstention_or_more_information_needed": [
+    "Abstain from a precise industry adoption rate or Rogers stage for human-reviewed service drafting. Need dated representative peer data with a clear denominator and production-use definition.",
+    "Do not claim the specific company will save 15%. Need comparable local inquiry tests including review, correction and tool costs.",
+    "Actual company peer position, data quality and integration capability remain unknown."
+  ]
+}

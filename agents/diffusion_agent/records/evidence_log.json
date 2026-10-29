@@ -1,0 +1,24 @@
+{
+  "status": "Initial research; not a complete evidence packet. Prompt packets not yet regenerated.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Large Firms With at Least 20 Employees Biggest AI Users",
+      "publisher": "US Census Bureau",
+      "url": "https://www.census.gov/library/stories/2026/05/ai-use-businesses.html",
+      "publication_date": "2026-05-26",
+      "review_date": "2026-10-28",
+      "observation_period": "December 14, 2025 to May 3, 2026",
+      "verified_finding": "As of May 3, finance and insurance AI use was 33.9%; retail trade around 14%.",
+      "scope": "AI in any business function; not specifically generative AI or human-reviewed customer-service drafting. Finance/insurance is not banks alone; retail is not apparel ecommerce alone.",
+      "limitations": "Historical snapshot, not verified latest October estimate. Core question changed November 2025; comparisons spanning the change need qualification.",
+      "use": "Broad sector background and a challenge to assuming conservative banking means lower sector-wide adoption."
+    }
+  ],
+  "leads": [
+    {
+      "url": "https://www.nber.org/papers/w31161",
+      "status": "Search result found; page fetch returned 403. Verify full paper/version before using numerical results."
+    }
+  ]
+}

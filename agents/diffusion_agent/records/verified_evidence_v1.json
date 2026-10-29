@@ -1,0 +1,30 @@
+[
+  {
+    "claim": "Broad-sector AI use: finance/insurance 33.9%, retail about 14%, as of May 3, 2026.",
+    "source_or_reference": "US Census Bureau, Large Firms With at Least 20 Employees Biggest AI Users, https://www.census.gov/library/stories/2026/05/ai-use-businesses.html",
+    "date_or_recency": "Published 2026-05-26; observation May 3, 2026; reviewed 2026-10-28",
+    "evidence_type": "Official survey analysis",
+    "notes": "Any AI/business function, not generative AI customer-service adoption. Broad sectors differ from banks and apparel ecommerce. Historical context, not current October prevalence."
+  },
+  {
+    "claim": "August 2026 tracker reports workplace generative-AI use by 40.5% of employed adults.",
+    "source_or_reference": "Harvard Project on Workforce and St. Louis Fed, Generative AI Adoption Tracker, https://pw.hks.harvard.edu/post/the-generative-ai-adoption-tracker",
+    "date_or_recency": "Page initially published 2025-11-14, live updated; August 2026 observation; reviewed 2026-10-28",
+    "evidence_type": "Research-team survey summary",
+    "notes": "Nationally weighted US RPS; self-reported individual use, not enterprise deployment. Dynamic page; exact update date unavailable. Do not equate workers with firms."
+  },
+  {
+    "claim": "Research using nearly 14,000 workers across August 2025-May 2026 finds broad but uneven task penetration.",
+    "source_or_reference": "Bick et al., What Work Does Generative AI Do?, https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do",
+    "date_or_recency": "Published 2026-09-01; reviewed 2026-10-28",
+    "evidence_type": "Research authors summarizing RPS task study",
+    "notes": "US adults 18-64. Task and occupation denominators differ. Its May workplace headline differs from the August tracker observation; do not claim uninterrupted growth or merge waves without checking comparability."
+  },
+  {
+    "claim": "Revised study of 5,172 customer-support agents reports average 15% higher issues resolved per hour with AI assistance, with heterogeneous effects.",
+    "source_or_reference": "Brynjolfsson, Li and Raymond, Generative AI at Work, https://arxiv.org/abs/2304.11771v2",
+    "date_or_recency": "Revision 2024-11-06; abstract checked 2026-10-28",
+    "evidence_type": "Authors original research abstract, revised version",
+    "notes": "Historical effectiveness evidence, not a market-prevalence estimate or guaranteed savings. Experienced/high-skilled workers had small quality declines. Full methods and underlying observation dates not yet checked. Do not mix with earlier 14%/5,179 version."
+  }
+]
